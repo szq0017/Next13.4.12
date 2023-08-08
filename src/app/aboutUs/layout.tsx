@@ -1,4 +1,4 @@
-export default function WhatLayout({
+export default function aboutUsLayout({
     children,
 }: {
     children: React.ReactNode

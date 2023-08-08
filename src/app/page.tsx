@@ -7,8 +7,8 @@ export default function Home() {
             <nav>
                 <ul>
                     <li>
-                        <Link href="/what" className="underline">
-                            What
+                        <Link href="/aboutUs" className="underline">
+                            aboutUs
                         </Link>
                     </li>
                     <li>
