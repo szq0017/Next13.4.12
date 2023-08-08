@@ -7,8 +7,8 @@ export default function Page() {
                 Home
             </Link>
             <br />
-            <Link href="/about" className="underline">
-                back to about
+            <Link href="/what" className="underline">
+                back to What
             </Link>
             <h1>Info Page</h1>
         </div>

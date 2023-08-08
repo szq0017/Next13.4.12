@@ -8,8 +8,8 @@ const Page = () => {
                 <Link href="/" className="underline">
                     Home
                 </Link>
-                <Link href="/about" className="underline">
-                    About
+                <Link href="/what" className="underline">
+                    What
                 </Link>
             </div>
         </div>
