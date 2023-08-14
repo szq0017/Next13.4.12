@@ -10,6 +10,9 @@ export default function Page() {
             <Link href="/aboutUs/info" className="underline">
                 Info
             </Link>
+            <Link href="/users" className="underline">
+                Users
+            </Link>
         </div>
     )
 }

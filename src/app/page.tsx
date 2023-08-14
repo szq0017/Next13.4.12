@@ -1,4 +1,6 @@
 import Link from 'next/link'
+import Counter from '@/app/Counter'
+import UserList from '@/app/users/UserList'
 
 export default function Home() {
     return (
@@ -18,6 +20,10 @@ export default function Home() {
                     </li>
                 </ul>
             </nav>
+            <Counter>
+                <h2 className="font-bold text-lg mt-4">ユーザ一覧</h2>
+                <UserList />
+            </Counter>
         </div>
     )
 }
